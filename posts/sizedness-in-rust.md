@@ -24,6 +24,7 @@ _22 July 2020 · #rust · #sizedness_
 - [Conclusion](#conclusion)
 - [Discuss](#discuss)
 - [Further Reading](#further-reading)
+- [Notifications](#notifications)
 
 
 
@@ -1249,6 +1250,15 @@ Discuss this article on
 
 - [Common Rust Lifetime Misconceptions](./common-rust-lifetime-misconceptions.md)
 - [Tour of Rust's Standard Library Traits](./tour-of-rusts-standard-library-traits.md)
+- [Beginner's Guide to Concurrent Programming: Coding a Multithreaded Chat Server using Tokio](./chat-server.md)
+- [Learning Rust in 2024](./learning-rust-in-2024.md)
+- [Using Rust in Non-Rust Servers to Improve Performance](./rust-in-non-rust-servers.md)
 - [RESTful API in Sync & Async Rust](./restful-api-in-sync-and-async-rust.md)
-- [Learning Rust in 2020](./learning-rust-in-2020.md)
 - [Learn Assembly with Entirely Too Many Brainfuck Compilers](./too-many-brainfuck-compilers.md)
+
+
+## Notifications
+
+Get notified when a new blog post gets published by
+- Subscribing to this repo's [releases RSS feed](https://github.com/pretzelhammer/rust-blog/releases.atom) or
+- Watching this repo's releases (click `Watch` → click `Custom` → select `Releases` → click `Apply`)

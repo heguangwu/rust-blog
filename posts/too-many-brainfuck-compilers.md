@@ -19,6 +19,7 @@ _01 November 2020 · #assembly · #compilers_
 - [Concluding thoughts](#concluding-thoughts)
 - [Discuss](#discuss)
 - [Further Reading](#further-reading)
+- [Notifications](#notifications)
 
 
 
@@ -2215,6 +2216,7 @@ The documentation online for LLVM IR is by far the best. The [LLVM IR Language R
 If I had to write a compiler in the future I think I'll definitely stick with LLVM IR. It has the best documentation, it has a kick-ass optimizer, and it can compile down to x86_64, aarch64, or WebAssembly (plus a whole bunch of other targets)!
 
 
+
 ## Discuss
 
 Discuss this article on
@@ -2228,14 +2230,18 @@ Discuss this article on
 - [Hackernews](https://news.ycombinator.com/item?id=25069243)
 - [Github](https://github.com/pretzelhammer/rust-blog/discussions)
 
+
+
 ## Further Reading
 
 Rust
 - [Common Rust Lifetime Misconceptions](./common-rust-lifetime-misconceptions.md)
 - [Tour of Rust's Standard Library Traits](./tour-of-rusts-standard-library-traits.md)
+- [Beginner's Guide to Concurrent Programming: Coding a Multithreaded Chat Server using Tokio](./chat-server.md)
+- [Learning Rust in 2024](./learning-rust-in-2024.md)
+- [Using Rust in Non-Rust Servers to Improve Performance](./rust-in-non-rust-servers.md)
 - [Sizedness in Rust](./sizedness-in-rust.md)
 - [RESTful API in Sync & Async Rust](./restful-api-in-sync-and-async-rust.md)
-- [Learning Rust in 2020](./learning-rust-in-2020.md)
 
 ISAs
 - [What does RISC and CISC mean in 2020?](https://medium.com/swlh/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de)
@@ -2265,3 +2271,11 @@ LLVM IR
 - [LLVM Language Reference Manual](https://llvm.org/docs/LangRef.html)
 - [Mapping High Level Constructs to LLVM IR](https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/en/latest/README.html)
 - [My First Language Frontend with LLVM Tutorial](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
+
+
+
+## Notifications
+
+Get notified when a new blog post gets published by
+- Subscribing to this repo's [releases RSS feed](https://github.com/pretzelhammer/rust-blog/releases.atom) or
+- Watching this repo's releases (click `Watch` → click `Custom` → select `Releases` → click `Apply`)
